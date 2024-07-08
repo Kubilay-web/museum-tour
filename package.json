@@ -1,10 +1,4 @@
 {
-  "repository": "https://github.com/theringsofsaturn/virtual-tour",
-  "author": {
-    "name": "theringsofsaturn",
-    "email": "emiliankasemi@gmail.com"
-  },
-  "license": "Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International",
   "scripts": {
     "build": "webpack --config ./bundler/webpack.prod.js",
     "dev": "webpack serve --config ./bundler/webpack.dev.js"
